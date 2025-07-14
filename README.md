@@ -103,7 +103,3 @@ Officer ID       : TFC-8123
 
 ---
 
-## 🧑‍💻 Authors
-
-- Aryan Dev & Team
-- For educational and demonstration purposes.
